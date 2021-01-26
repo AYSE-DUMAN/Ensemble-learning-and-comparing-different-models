@@ -1,4 +1,4 @@
-# Ensemble-learning-and-comparing-difrent-models
+# Ensemble-learning-and-comparing-different-models
 
  In this repo;
 
