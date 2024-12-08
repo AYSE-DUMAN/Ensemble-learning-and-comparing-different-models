@@ -57,11 +57,5 @@ This repository contains a comprehensive exploration of various **ensemble learn
 - **NumPy**: For numerical operations.
 - **Matplotlib/Seaborn**: For data visualization.
 
-# Getting Started
 
-## Prerequisites
 
-Ensure you have the following libraries installed:
-
-```bash
-pip install scikit-learn xgboost lightgbm catboost pandas numpy matplotlib seaborn
